@@ -18,4 +18,5 @@ You should name your file with "Elec_24.csv" and put it in the code folder (""./
 If you cant use python3.9 (or other version that supports types) <br/>
 <br/>
 ## Remarks (important!!!):<br/>
-To pause the run and to see the cities map, press on the space button or control + c . 
+To pause the run and to see the cities map, press on the space button or control + c . <br/>
+please be patiant till exe loading, Thank you!
