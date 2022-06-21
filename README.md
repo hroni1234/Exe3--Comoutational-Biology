@@ -14,8 +14,8 @@ You should name your file with "Elec_24.csv" and put it in the code folder (""./
  so we recommend to save the input file in the same directory as the exe.<br/>
 2. run "python main.py" command, work only if the "python" name saved in the computer as the path to the python3.9.<br/>
 3. use the green button of pycharm in the main.py file<br/>
-# Some remarks:<br/>
+## Some remarks:<br/>
 If you cant use python3.9 (or other version that supports types) <br/>
 <br/>
-# Remarks (important!!!):<br/>
+## Remarks (important!!!):<br/>
 To pause the run and to see the cities map, press on the space button or control + c . 
